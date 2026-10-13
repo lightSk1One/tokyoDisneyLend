@@ -1,0 +1,19 @@
+body {
+            background-color: #d7cbee;
+            padding: 440px;;
+            font-family: FreeMono, monospace;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+        .content-wrapper {
+         max-width: 1000px;
+         padding: 20px;
+        }
+h1 {
+    background-color: #8ebbff;
+}
+h2 {
+    background-color: rgb(228, 222, 255);
+}
